@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waleed-javed/AWS-EFS-EC2-POC.git"
+    "url": "git+https://github.com/szulfiqar/AWS-EFS-EC2-POC.git"
   },
   "keywords": [
     "POC",
     "EFS",
     "EC2"
   ],
-  "author": "Waleed JAved",
+  "author": "Saad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waleed-javed/AWS-EFS-EC2-POC/issues"
+    "url": "https://github.com/szulfiqar/AWS-EFS-EC2-POC/issues"
   },
-  "homepage": "https://github.com/waleed-javed/AWS-EFS-EC2-POC#readme",
+  "homepage": "https://github.com/szulfiqar/AWS-EFS-EC2-POC#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
